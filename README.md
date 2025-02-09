@@ -3,13 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firaslatrech&label=Profile%20views&color=0e75b6&style=flat" alt="firaslatrech" /> </p>
 
-- 🔭 I’m currently working on [Portfolio Website](http://firaslatrach.rf.gd)
-
-- 👨‍💻 All of my projects are available at [http://firaslatrach.rf.gd](http://firaslatrach.rf.gd)
-
-- 💬 Ask me about **python html, css,js**
-
-- 📫 How to reach me **firaslatrach3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
