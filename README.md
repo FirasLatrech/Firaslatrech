@@ -1,4 +1,4 @@
-# Sup! I'm Firas Latrach 👋
+# Hi ! I'm Firas Latrach 👋
 
 I'm a Full Stack web developer and Open Source Contributor, with a focus on JavaScript, React, and UI/UX design. Enthusiastic about Three.js, driven by a keen eye for design.
 
