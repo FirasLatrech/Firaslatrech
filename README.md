@@ -2,8 +2,7 @@
 
 I'm a Full Stack web developer and Open Source Contributor, with a focus on JavaScript, React, and UI/UX design. Enthusiastic about Three.js, driven by a keen eye for design.
 
-<a href="https://x.com/Firas_Latrech" target="_blank" rel="noreferrer"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.github.com/FirasLatrech" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ramxcodes?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>&nbsp;&nbsp;&nbsp; 
+<a href="https://x.com/Firas_Latrech" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/twitter/follow/Firas_Latrech?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917" /> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.github.com/FirasLatrech" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/FirasLatrech?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /> </a> 
 
 
 ## ⚙️ Tech Stack
